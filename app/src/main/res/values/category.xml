@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="category_id">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+    </integer-array>
+
+    <string-array name="category_name">
+        <item>General</item>
+        <item>Personal</item>
+        <item>Work</item>
+        <item>Inspiration</item>
+        <item>Office</item>
+        <item>Home</item>
+        <item>School</item>
+        <item>Plan</item>
+        <item>Finance</item>
+    </string-array>
+
+    <string-array name="category_color">
+        <item>#D0753B</item>
+        <item>#3FB15A</item>
+        <item>#3365AE</item>
+        <item>#EB9B38</item>
+        <item>#718FBC</item>
+        <item>#897870</item>
+        <item>#50585D</item>
+        <item>#BDD146</item>
+        <item>#CC4A36</item>
+    </string-array>
+
+    <integer-array name="category_icon">
+        <item>@drawable/ic_cat_general</item>
+        <item>@drawable/ic_cat_personal</item>
+        <item>@drawable/ic_cat_work</item>
+        <item>@drawable/ic_cat_inspiration</item>
+        <item>@drawable/ic_cat_office</item>
+        <item>@drawable/ic_cat_home</item>
+        <item>@drawable/ic_cat_school</item>
+        <item>@drawable/ic_cat_plan</item>
+        <item>@drawable/ic_cat_finace</item>
+    </integer-array>
+
+</resources>
